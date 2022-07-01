@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/laura-latuillerie/portfolio/7efd8092cb1698788ba4053ef129a670cd2b564f/media/img/developer-thumbnail.svg" width="50%">
   </a></p>
  
-- 🌱 I’m currently learning **Programming with Harvard's CS50 and The Odin Project**
+- 🌱 I’m currently learning **Programming with Harvard's CS50 and Le Wagon**
 
 - 👨‍💻 All of my projects are available at [https://laura-latuillerie.fr](https://laura-latuillerie.fr)
 
