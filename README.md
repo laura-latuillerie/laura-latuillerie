@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura Latuillerie</h1>
-<h3 align="center">A passionate Web Designer and Front-End Developer</h3>
+<h3 align="center">A dedicated and curious FullStack Develepper with design skills</h3>
 <p align="center">
 <a href="https://laura-latuillerie.fr">
   <img src="https://raw.githubusercontent.com/laura-latuillerie/portfolio/7efd8092cb1698788ba4053ef129a670cd2b564f/media/img/developer-thumbnail.svg" width="50%">
