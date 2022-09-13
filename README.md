@@ -25,10 +25,10 @@
 #### Design  
 <div align="left">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="30" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="30" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="30" />  
+ <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="30" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" />  
 </div>
 <br/>
@@ -45,9 +45,19 @@
 </div>
 <br/>
 </td><td valign="top">
+  
+#### DB 
+<div align="left">  
+<img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Icon" height="30" />  
+<img style="margin: 20px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLITE" height="30" />
+</div>
+<br/>
+</td><td valign="top">
 
 ####  Back-end  
-<div align="left">  
+<div align="left">
+<img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" height="30" />  
+<img style="margin: 20px" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" height="30" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="30" />  
 </div>
