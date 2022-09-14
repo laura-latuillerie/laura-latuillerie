@@ -57,7 +57,7 @@
 ####  Back-end  
 <div align="left">
 <img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" height="30" />  
-<img style="margin: 20px" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" height="30" />  
+<img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" height="30" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="30" />  
 </div>
