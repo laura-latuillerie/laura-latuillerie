@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated and curious FullStack Develepper with design skills</h3>
 <p align="center">
 <a href="https://laura-latuillerie.fr">
-  <img src="[https://raw.githubusercontent.com/laura-latuillerie/portfolio/7efd8092cb1698788ba4053ef129a670cd2b564f/media/img/developer-thumbnail.svg](https://res.cloudinary.com/laura-latuillerie/image/upload/v1666105264/mini_room_q4coiy.png)" width="50%">
+  <img src="https://res.cloudinary.com/laura-latuillerie/image/upload/v1666105264/mini_room_q4coiy.png" width="50%">
   </a></p>
  
 - 🌱 I’m currently learning **Programming with Harvard's CS50 and just got out Le Wagon**
