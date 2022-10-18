@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning **Programming with Harvard's CS50 and just got out Le Wagon**
 
-- 👨‍💻 All of my front-end projects are available at [https://laura-latuillerie.fr](https://laura-latuillerie.com/)
+- 👨‍💻 All of my front-end projects are available at [https://laura-latuillerie.com](https://laura-latuillerie.com/)
 
 - 👀 I’m interested in learning new stuff, reading (manga, webtoons & wuxia), music, astrology, travel, food and sleeping !
 
