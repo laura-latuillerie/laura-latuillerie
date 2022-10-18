@@ -17,7 +17,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/laura-latuillerie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura-latuillerie" height="30" width="40" /></a>
 <a href="https://instagram.com/dimsumog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimsumog" height="30" width="40" /></a>
+<a href="[https://instagram.com/dimsumog](https://www.malt.fr/profile/laural3)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://play-lh.googleusercontent.com/pCYfqB1v-c9Phmvjxji_v37Lf1l59fg1pIy17PztwmS2yoRvGtNAgHZlOHQf0AQo_MZv)" alt="malt_logo" height="40" width="40" /></a>
+  
+  
 </p>
+
 
 ## My Skill Set  
 <table><tr><td valign="top">
